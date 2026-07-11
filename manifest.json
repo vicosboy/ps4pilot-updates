@@ -1,5 +1,5 @@
 {
-  "version": "18.0",
-  "url": "https://github.com/vicosboy/ps4pilot-updates/releases/download/18.0/PS4_Pilot_18.0.zip",
-  "notes": "problem de pan chez certains utilisateurs regles(fred)/n allez dans parametres pour activer le pan droit pour ceux qui avait des problemes"
+  "version": "18.1",
+  "url": "https://github.com/vicosboy/ps4pilot-updates/releases/download/18.1/PS4_Pilot_18.1.zip",
+  "notes": "- Correction : manette figée au lancement en USBn- Barre lumineuse en Bluetooth (bleu/orange)n- Le moteur se relance tout seul en cas de problèmen- Fenêtre Nouveautés après chaque mise à journ- Profils presets réparés (Montage, Mixage, Transport, Enregistrement, Atmos)"
 }
